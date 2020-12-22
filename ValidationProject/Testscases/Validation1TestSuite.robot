@@ -64,6 +64,9 @@ TC_005_Validationelement
     Title Should Be    Connexion | Salesforce
     #Element Should Be Enabled    id=username
     #Element Should Be Disabled    id=username
-    Element Should Be Visible    id=username    
+    Element Should Be Visible    id=username  
+    
+TC_006_display_simple_test
+    Log To Console    Brahim git      
     
     
